@@ -1,0 +1,13 @@
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+
+# Archivos generados por el script
+source/Portfolio_Data.xlsx
+PortfolioDashboard.pbip
+PortfolioDashboard.Report/
+PortfolioDashboard.SemanticModel/
+portfolio_theme.json
+
+# Datos fuente (dependen de cada proyecto)
+source/*
+!source/.gitkeep
